@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445029862443",
+    "project_id": "foodcheckoutapp-6f8f3",
+    "storage_bucket": "foodcheckoutapp-6f8f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445029862443:android:c49c16b0976e6cb0a4ee6e",
+        "android_client_info": {
+          "package_name": "com.example.food_checkout_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpXfEyWOeI5gzfygvuaV8mfTOyip_Mt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
