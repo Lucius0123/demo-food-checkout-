@@ -1,10 +1,10 @@
 // checkout_page.dart
 import 'package:flutter/material.dart';
-import 'components/address_section.dart';
-import 'components/bill_details.dart';
-import 'components/bill_summary.dart';
-import 'components/cart_summery.dart';
-import 'components/special_intruction.dart';
+import 'components/check out Components/address_section.dart';
+import 'components/check out Components/bill_details.dart';
+import 'components/check out Components/bill_summary.dart';
+import 'components/check out Components/cart_summery.dart';
+import 'components/check out Components/special_intruction.dart';
 import 'delivery_status_page.dart';
 import 'firebase_service.dart';
 import 'model/food_order.dart';

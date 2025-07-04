@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../model/food_order.dart';
+import '../../model/food_order.dart';
 
 class CartSummaryWidget extends StatelessWidget {
   final List<CartItem> cartItems;
