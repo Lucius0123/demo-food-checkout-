@@ -63,6 +63,13 @@ The app uses Flutter's built-in \`setState\` for local state management:
 - Flutter team for the amazing framework
 - Firebase for backend services
 - Material Design for UI guidelines
+## AI Tool Use
+- Chat GPT 
+   For resolving the error and make code more efficient.
+
+## 👥 Authors
+
+- **Raj Chaurasiya** - *Done All fornt end part and setup the firebase for bekend* -
 
 
 
